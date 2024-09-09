@@ -4,9 +4,17 @@
     box-sizing: border-box;
 }
 
-.adjust-color {
-    color: rgb(20, 175, 20);
+.card {
+    background-color: rgb(241, 218, 196);
+    width: fit-content;
+    height: fit-content;
+    margin: 20px;
+    padding: 20px;
 }
+
+/* .adjust-color {
+    color: rgb(20, 175, 20);
+} */
 
 img {
     height: auto;
