@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .adjust-color {
     color: rgb(20, 175, 20);
 }
